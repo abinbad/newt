@@ -17,16 +17,6 @@ const config: TConfig = {
     gap: 6, // Gap between buttons (in Tailwind size units)
     buttons: [
       {
-        name: 'Newt GitHub',
-        href: 'https://github.com/arithefirst/newt',
-        icon: 'github',
-      },
-      {
-        name: 'Amazon',
-        href: 'https://amazon.com',
-        icon: 'shopping-cart',
-      },
-      {
         name: 'Gmail',
         href: 'https://mail.google.com',
         icon: 'mail',
@@ -47,11 +37,6 @@ const config: TConfig = {
         icon: 'music',
       },
       {
-        name: 'Twitch',
-        href: 'https://twitch.tv',
-        icon: 'twitch',
-      },
-      {
         name: 'YouTube',
         href: 'https://youtube.com',
         icon: 'youtube',
@@ -68,10 +53,10 @@ const config: TConfig = {
   // The greetings that get displayed
   // depending on the time of day
   greetings: {
-    morning: 'Good morning',
-    evening: 'Good afternoon',
-    night: 'Good evening',
-    late: 'Go to Sleep',
+    morning: 'GET OFF YOYR LAZY ASS',
+    evening: 'keep smelling they/them roses girlie pop!!!11!!1',
+    night: 'GO TO FUCKING SLEEP',
+    late: 'GO TO FUCKING SLEEP',
     punc: '!', // Punctiation at the end of the greeting (Use '' to disable)
   },
 
