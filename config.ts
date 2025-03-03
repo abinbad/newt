@@ -54,7 +54,7 @@ const config: TConfig = {
   // depending on the time of day
   greetings: {
     morning: 'GET OFF YOYR LAZY ASS',
-    evening: 'keep smelling they/them roses girlie pop!!!11!!1',
+    evening: 'Keep smelling they/them roses girlie pop!!!11!!1',
     night: 'GO TO FUCKING SLEEP',
     late: 'GO TO FUCKING SLEEP',
     punc: '!', // Punctiation at the end of the greeting (Use '' to disable)
