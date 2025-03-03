@@ -1,12 +1,12 @@
 import type { TConfig } from '$lib/types/config.types';
 const config: TConfig = {
-  name: 'April',
+  name: 'Abin',
   locale: 'en',
   midgap: 24, // Gap between buttons and the time/weather (in Tailwind size units)
   colors: {
     baseBg: '#1E1E2E',
     darkBg: '#181825',
-    accent: '#CBA6F7',
+    accent: '#FAB387',
     textPrimary: '#CDDCF4',
     textSecondary: '#1E1E2E',
   },
@@ -93,10 +93,10 @@ const config: TConfig = {
   weather: {
     coordinates: {
       // Find yout coordinates at https://www.latlong.net
-      lat: '40.776676', // Your latitude
-      long: '-73.971321', // Your longitude
+      lat: '39.789053', // Your latitude
+      long: '-75.242527', // Your longitude
     },
-    units: 'metric', // metric = C°, imperial = F°, standard = K
+    units: 'standard', // metric = C°, imperial = F°, standard = K
   },
 };
 
