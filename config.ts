@@ -1,13 +1,13 @@
 import type { TConfig } from '$lib/types/config.types';
 const config: TConfig = {
-  name: 'Abin',
+  name: 'abinbad',
   locale: 'en',
   midgap: 24, // Gap between buttons and the time/weather (in Tailwind size units)
   colors: {
-    baseBg: '#1E1E2E',
-    darkBg: '#181825',
-    accent: '#FAB387',
-    textPrimary: '#CDDCF4',
+    baseBg: '#fab387',
+    darkBg: '#eba0ac',
+    accent: '#f2cdcd',
+    textPrimary: '#f4dbd6',
     textSecondary: '#1E1E2E',
   },
 
