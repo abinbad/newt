@@ -85,7 +85,7 @@ const config: TConfig = {
   // Clock config
   time: {
     seconds: true,
-    twelveHour: false,
+    twelveHour: true,
   },
 
   // Weather config. Requires your geo coordinates and
