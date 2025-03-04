@@ -57,7 +57,7 @@ const config: TConfig = {
     evening: 'Keep smelling they/them roses girlie pop!!!11!!1',
     night: 'GO TO FUCKING SLEEP',
     late: 'WHY AREN"T YOU ASLEEP YOU FUCKING COMMIE',
-    punc: '!', // Punctiation at the end of the greeting (Use '' to disable)
+    punc: '!!!!!!!!!!!!!!!!!!', // Punctiation at the end of the greeting (Use '' to disable)
   },
 
   // Date formatting options (Uses the same syntax as the
