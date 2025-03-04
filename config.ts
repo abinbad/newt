@@ -14,7 +14,7 @@ const config: TConfig = {
   // Defines the buttons that get rendered.
   // Uses lucide for icons. Define up to 12.
   buttons: {
-    gap: 8, // Gap between buttons (in Tailwind size units)
+    gap: 6, // Gap between buttons (in Tailwind size units)
     buttons: [
       {
         name: 'Gmail',
