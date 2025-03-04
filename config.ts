@@ -5,7 +5,7 @@ const config: TConfig = {
   midgap: 24, // Gap between buttons and the time/weather (in Tailwind size units)
   colors: {
     baseBg: '#fab387',
-    darkBg: '#eba0ac',
+    darkBg: '#ca9ee6',
     accent: '#f2cdcd',
     textPrimary: '#f4dbd6',
     textSecondary: '#1E1E2E',
