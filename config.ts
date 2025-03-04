@@ -14,7 +14,7 @@ const config: TConfig = {
   // Defines the buttons that get rendered.
   // Uses lucide for icons. Define up to 12.
   buttons: {
-    gap: 6, // Gap between buttons (in Tailwind size units)
+    gap: 8, // Gap between buttons (in Tailwind size units)
     buttons: [
       {
         name: 'Gmail',
@@ -47,7 +47,7 @@ const config: TConfig = {
   // Config for an optional background image
   image: {
     enabled: true,
-    src: 'background-image.png',
+    src: 'https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/purple_car_girl.png',
   },
 
   // The greetings that get displayed
@@ -56,7 +56,7 @@ const config: TConfig = {
     morning: 'GET OFF YOYR LAZY ASS',
     evening: 'Keep smelling they/them roses girlie pop!!!11!!1',
     night: 'GO TO FUCKING SLEEP',
-    late: 'GO TO FUCKING SLEEP',
+    late: 'WHY AREN"T YOU ASLEEP YOU FUCKING COMMIE',
     punc: '!', // Punctiation at the end of the greeting (Use '' to disable)
   },
 
