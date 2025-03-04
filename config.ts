@@ -6,7 +6,7 @@ const config: TConfig = {
   colors: {
     baseBg: '#fab387',
     darkBg: '#ca9ee6',
-    accent: #8839ef',
+    accent: '#8839ef',
     textPrimary: '#f4dbd6',
     textSecondary: '#1E1E2E',
   },
