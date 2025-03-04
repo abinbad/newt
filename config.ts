@@ -4,7 +4,7 @@ const config: TConfig = {
   locale: 'en',
   midgap: 24, // Gap between buttons and the time/weather (in Tailwind size units)
   colors: {
-    baseBg: '#8839ef',
+    baseBg: '#cba6f7',
     darkBg: '#c6a0f6',
     accent: '#f4b8e4',
     textPrimary: '#f4dbd6',
@@ -57,14 +57,16 @@ const config: TConfig = {
     evening: 'Keep smelling they/them roses girlie pop!!!11!!1',
     night: 'GO TO FUCKING SLEEP',
     late: 'WHY AREN"T YOU ASLEEP YOU FUCKING COMMIE',
-    punc: '!!!!!!!!!!!!!!!!!!', // Punctiation at the end of the greeting (Use '' to disable)
+    punc: '!!!!!!(faggot)!!!!!!!!', // Punctiation at the end of the greeting (Use '' to disable)
   },
 
   // Date formatting options (Uses the same syntax as the
   // Date().toLocaleDateString() options)
   dateFormat: {
-    month: 'short',
-    day: 'numeric',
+    era: 'long',
+    year: '2-digit',
+    month: '2-digit',
+    day: '2-digit',
   },
 
   // Clock config
