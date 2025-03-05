@@ -63,7 +63,7 @@ const config: TConfig = {
   // Date formatting options (Uses the same syntax as the
   // Date().toLocaleDateString() options)
   dateFormat: {
-    era: 'narrow',
+    era: 'short',
     year: '2-digit',
     month: '2-digit',
     day: '2-digit',
