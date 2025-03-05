@@ -27,6 +27,11 @@ const config: TConfig = {
         icon: 'search',
       },
       {
+        name: 'Schoology',
+        href: 'kingsway.schoology.com',
+        icon: 'graduation-cap',
+      },
+      {
         name: 'Google Calendar',
         href: 'https://calendar.google.com',
         icon: 'calendar',
