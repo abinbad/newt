@@ -28,7 +28,7 @@ const config: TConfig = {
       },
       {
         name: 'Schoology',
-        href: 'kingsway.schoology.com',
+        href: 'https://kingsway.schoology.com',
         icon: 'graduation-cap',
       },
       {
