@@ -32,9 +32,9 @@ const config: TConfig = {
         icon: 'graduation-cap',
       },
       {
-        name: 'Google Calendar',
-        href: 'https://calendar.google.com',
-        icon: 'calendar',
+        name: 'AI',
+        href: 'https://chatgpt.com',
+        icon: 'brain-circuit',
       },
       {
         name: 'Spotify',
