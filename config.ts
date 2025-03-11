@@ -32,6 +32,11 @@ const config: TConfig = {
         icon: 'graduation-cap',
       },
       {
+        name: 'Tasks',
+        href: 'https://tasks.google.com',
+        icon: 'bookmark-check',
+      },
+      {
         name: 'AI',
         href: 'https://chatgpt.com',
         icon: 'brain-circuit',
