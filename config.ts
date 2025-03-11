@@ -38,7 +38,7 @@ const config: TConfig = {
       },
       {
         name: 'AI',
-        href: 'https://chatgpt.com',
+        href: 'https://t3.chat',
         icon: 'brain-circuit',
       },
       {
