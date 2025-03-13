@@ -23,7 +23,7 @@ const config: TConfig = {
       },
       {
         name: 'Google',
-        href: 'https://google.com',
+        href: 'https://drive.google.com',
         icon: 'search',
       },
       {
@@ -57,7 +57,7 @@ const config: TConfig = {
   // Config for an optional background image
   image: {
     enabled: true,
-    src: 'https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/purple_car_girl.png',
+    src: 'https://github.com/arithefirst/dotfiles/blob/master/hyprland/.wallpapers/mars.png?raw=true&quality=lossless',
   },
 
   // The greetings that get displayed
